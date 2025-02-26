@@ -69,4 +69,4 @@ This project implements a text classification pipeline using **Support Vector Ma
 
 ---
 
-Would you like to add any specific details about dataset assumptions or model improvements? 🚀
+Welcomig to contributions and model improvements 🚀
